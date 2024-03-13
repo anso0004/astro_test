@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Det er en god ide at skrive grid, flex osv som bruges flere steder her */
