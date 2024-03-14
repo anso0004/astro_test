@@ -6,4 +6,19 @@ img {
   max-width: 100%;
 }
 
+body {
+  background-color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+button {
+  color: white;
+}
+
 /* Det er en god ide at skrive grid, flex osv som bruges flere steder her */
